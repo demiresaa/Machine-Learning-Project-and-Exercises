@@ -46,5 +46,5 @@ Bu depo, genellikle aşağıdaki konuları ve algoritmaları içeren Jupyter not
 ### Proje Sahibi
 
 Süleyman Kürşat Demir
-*   GitHub:https://github.com/demiresaa
-*   LinkedIn:https://www.linkedin.com/in/suleyman-kursat-demir/
+*   GitHub: https://github.com/demiresaa
+*   LinkedIn: https://www.linkedin.com/in/suleyman-kursat-demir/
