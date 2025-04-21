@@ -1,57 +1,50 @@
+# Machine-Learning-Project-and-Exercises ✨
 
-**(Not: Yukarıdaki yapı bir örnektir. Kendi depo düzeninize göre bu kısmı güncelleyebilirsiniz.)*
+## Makine Öğrenmesi Yolculuğum: Sıfırdan İleri Seviyeye 🧠📊
 
-### Başlangıç (Getting Started)
+Bu depo, benim makine öğrenmesi dünyasına adım attığım ve sıfırdan başlayarak temel kavramlardan ileri seviye algoritmalara kadar geniş bir yelpazede öğrendiklerimi belgelediğim kişisel bir projedir.
 
-Bu depodaki not defterlerini çalıştırmak ve içeriği incelemek için aşağıdaki adımları takip edebilirsiniz:
+Burada, makine öğrenmesinin temel prensiplerini anlamak, farklı algoritmaların nasıl çalıştığını öğrenmek ve gerçek dünya problemlerine uygulamak amacıyla yaptığım çalışmaları, kod örneklerini ve not defterlerini bulacaksınız.
 
-1.  **Depoyu Klonlayın:**
-    ```bash
-    git clone https://github.com/[KULLANICI_ADINIZ]/Machine-Learning-Project-and-Exercises.git
-    ```
-    *(`[KULLANICI_ADINIZ]` yerine kendi GitHub kullanıcı adınızı yazın.)*
+### Projenin Amacı
 
-2.  **Gerekli Kütüphaneleri Kurun:**
-    Not defterlerini çalıştırmak için gerekli Python kütüphanelerini kurmanız gerekmektedir. Sanallaştırılmış bir ortam (virtual environment) kullanmanız şiddetle önerilir.
+*   Makine öğrenmesi algoritmalarını **sıfırdan** başlayarak anlamak ve öğrenmek.
+*   Temel ve **ileri seviye** makine öğrenmesi kavramlarını derinlemesine incelemek.
+*   Farklı problemler (sınıflandırma, regresyon, kümeleme vb.) için uygun algoritmaları seçme ve uygulama becerisi kazanmak.
+*   Öğrenilen bilgileri pratik uygulamalarla pekiştirmek.
+*   Makine öğrenmesi bilgi birikimimi sergilemek ve gelecekteki projelere referans oluşturmak.
 
-    Eğer depoda bir `requirements.txt` dosyası varsa:
-    ```bash
-    pip install -r requirements.txt
-    ```
+### İçerik ve Kapsam
 
-    Yoksa, genellikle ihtiyaç duyulan temel kütüphaneleri elle kurabilirsiniz:
-    ```bash
-    pip install numpy pandas scikit-learn matplotlib seaborn jupyter
-    ```
+Bu depo, genellikle aşağıdaki konuları ve algoritmaları içeren Jupyter not defterleri (`.ipynb` dosyaları) ve ilgili kod örnekleri barındırır:
 
-3.  **Jupyter Not Defterini Başlatın:**
-    Deponun ana dizinine gidin ve aşağıdaki komutu çalıştırın:
-    ```bash
-    jupyter notebook
-    ```
-    veya
-    ```bash
-    jupyter lab
-    ```
-
-4.  Tarayıcınızda açılan Jupyter arayüzünden `notebooks` klasörüne giderek not defterlerini seçip çalıştırabilirsiniz.
-
-### Katkıda Bulunma
-
-Bu proje öncelikli olarak kişisel bir öğrenme ve pekiştirme projesidir. Şu anda aktif olarak dış katkılara açık değildir.
-
-Ancak, not defterlerinde herhangi bir hata fark ederseniz veya içeriğin iyileştirilmesi için önerileriniz olursa, lütfen bir [Issue açarak](https://github.com/[KULLANICI_ADINIZ]/Machine-Learning-Project-and-Exercises/issues) bildirmekten çekinmeyin. Öğrenme yolculuğumda geri bildirimleriniz değerlidir!
-
-### Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atın.
-
-*(Not: Deponuzda bir `LICENSE` dosyası yoksa eklemeyi unutmayın. GitHub arayüzünden kolayca ekleyebilirsiniz.)*
+*   **Temel Kavramlar:**
+    *   Veri Ön İşleme (Eksik Değerler, Aykırı Değerler, Ölçeklendirme)
+    *   Özellik Mühendisliği
+    *   Veri Görselleştirme (Matplotlib, Seaborn)
+*   **Süpervizyonlu Öğrenme (Supervised Learning):**
+    *   Lineer Regresyon (Linear Regression)
+    *   Lojistik Regresyon (Logistic Regression)
+    *   Karar Ağaçları (Decision Trees)
+    *   Rastgele Ormanlar (Random Forests)
+    *   Destek Vektör Makineleri (Support Vector Machines - SVM)
+    *   K-En Yakın Komşular (K-Nearest Neighbors - KNN)
+    *   Naif Bayes (Naive Bayes)
+*   **Süpervizyonsuz Öğrenme (Unsupervised Learning):**
+    *   K-Means Kümeleme (K-Means Clustering)
+    *   Hiyerarşik Kümeleme (Hierarchical Clustering)
+    *   Boyut İndirgeme (PCA - Principal Component Analysis)
+*   **Model Değerlendirme ve Performans Metrikleri:**
+    *   Sınıflandırma Metrikleri (Accuracy, Precision, Recall, F1-Score, ROC Curve)
+    *   Regresyon Metrikleri (MSE, RMSE, MAE, R²)
+    *   Çapraz Doğrulama (Cross-Validation)
+*   **Hiperparametre Ayarlaması (Hyperparameter Tuning):**
+    *   Grid Search, Random Search
+*   **Temel Python Kütüphaneleri:**
+    *   NumPy, Pandas, Scikit-learn
 
 ### Proje Sahibi
 
-[Adınız Soyadınız]
-*   GitHub: [GitHub Profil Bağlantınız]
-*   LinkedIn: [LinkedIn Profil Bağlantınız (İsteğe Bağlı)]
-
----
+Süleyman Kürşat Demir
+*   GitHub:https://github.com/demiresaa
+*   LinkedIn:https://www.linkedin.com/in/suleyman-kursat-demir/
